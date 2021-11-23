@@ -1,0 +1,10 @@
+p,a{
+   display: flex;
+   justify-content: space-evenly;
+}
+h1{
+    color: orange;
+}
+*{
+    background-color: red;
+}
